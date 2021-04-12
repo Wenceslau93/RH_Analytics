@@ -14,5 +14,5 @@ A fonte de dados foi extraido na empresa IBMG, são dados reais, porém não sã
 <br/>
 
 <p align="center">
-<img src="https://github.com/Wenceslau93/Health-Analytics/blob/main/imagem_projeto.png" alt="some text">
+<img src="https://github.com/Wenceslau93/RH_Analytics/blob/main/RH.PNG" alt="some text">
 </center></p>
